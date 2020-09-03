@@ -1,4 +1,4 @@
-# plate-checker
+# license-plate-checker
 
 plate-checker is a service which gets an image of an Israeli license plate and returns a decision whether the vehicle may enter the parking lot or not.
 
