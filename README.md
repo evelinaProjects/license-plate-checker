@@ -41,15 +41,15 @@ The plate-checker service can be installed through the use of [npm](https://www.
 ```bash
 npm install
 ```
-.env file should be filled with the following fields:
+* .env file should be filled with the following fields:
 
-PORT - on which the server is going to listen for incoming requests
+ PORT - on which the server is going to listen for incoming requests
 
-MONGODB_URL - database url used by the sever to save it's decisions history
+ MONGODB_URL - database url used by the sever to save it's decisions history
 
-API_KEY - key for OCR API
+ API_KEY - key for OCR API
 
-Confirm that you have plates/images
+* Confirm that you have plates/images
 
 ## Usage
 
