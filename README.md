@@ -66,7 +66,7 @@ body :
 * click send
 * response : allowed or prohibited
 
-![postman](https://github.com/evelinaProjects/plate-checker/blob/master/postman.png?raw=true)
+![postman](https://github.com/evelinaProjects/license-plate-checker/blob/master/postman.png?raw=true)
 
 
 
