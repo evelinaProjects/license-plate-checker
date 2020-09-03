@@ -49,6 +49,8 @@ MONGODB_URL - database url used by the sever to save it's decisions history
 
 API_KEY - key for OCR API
 
+Confirm that you have plates/images
+
 ## Usage
 
 ```bash
